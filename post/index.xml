@@ -16,7 +16,7 @@
       <guid>https://TongXinNSSC.github.io/post/test/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;As the deep learning methods have been largely developed in facial landmark localization task, the requirements of practical applications are growing fast. However, for large poses and occlusion, the accuracy of localization needs to be improved. Here, JD AI Research and NLPR, CASIA sincerely invited researchers and developers from academia and industry to participate in this competition and encourage further discussion on technical and application issues.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;C:/d/hugo/sites/blog/pic/trainingdata.png&#34; alt=&#34;display of training data&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../pic/trainingdata.png&#34; alt=&#34;display of training data&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Official email: &lt;a href=&#34;mailto:facial_lmgc_icme@163.com&#34;&gt;facial_lmgc_icme@163.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 id=&#34;news&#34;&gt;News&lt;/h1&gt;
 &lt;p&gt;2019/7/22 - The JD-landmark dataset has been released and can be downloaded from &lt;a href=&#34;https://sites.google.com/view/hailin-shi&#34;&gt;https://sites.google.com/view/hailin-shi&lt;/a&gt;.     If you use this dataset, please cite the paper &amp;ldquo;Yinglu Liu, Hao Shen, Yue Si, Xiaobo Wang, Xiangyu Zhu, Hailin Shi, et al. &amp;ldquo;Grand Challenge of 106-Point Facial Landmark Localization.&amp;rdquo; In 2019 IEEE International Conference on Multimedia and Expo (ICME) Workshop. IEEE, 2019.&amp;rdquo;&lt;/p&gt;
