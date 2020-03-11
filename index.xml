@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="https://TongXinNSSC.github.io/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JD AI</title>
+    <title>Home</title>
     <link>https://TongXinNSSC.github.io/</link>
-    <description>Recent content on JD AI</description>
+    <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Mar 2020 21:01:41 +0800</lastBuildDate>
