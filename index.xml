@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://TongXinNSSC.github.io/xml/base.min.xml" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JD AI</title>
+    <link>https://TongXinNSSC.github.io/</link>
+    <description>Recent content on JD AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2020 21:01:41 +0800</lastBuildDate>
+    <atom:link href="https://TongXinNSSC.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grand Challenge of 106-p Facial Landmark Localization</title>
+      <link>https://TongXinNSSC.github.io/post/test/</link>
+      <pubDate>Wed, 11 Mar 2020 21:01:41 +0800</pubDate>
+      <guid>https://TongXinNSSC.github.io/post/test/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;As the deep learning methods have been largely developed in facial landmark localization task, the requirements of practical applications are growing fast. However, for large poses and occlusion, the accuracy of localization needs to be improved. Here, JD AI Research and NLPR, CASIA sincerely invited researchers and developers from academia and industry to participate in this competition and encourage further discussion on technical and application issues.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/d/hugo/sites/blog/pic/trainingdata.png&#34; alt=&#34;display of training data&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Official email: &lt;a href=&#34;mailto:facial_lmgc_icme@163.com&#34;&gt;facial_lmgc_icme@163.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;news&#34;&gt;News&lt;/h1&gt;
+&lt;p&gt;2019/7/22 - The JD-landmark dataset has been released and can be downloaded from &lt;a href=&#34;https://sites.google.com/view/hailin-shi&#34;&gt;https://sites.google.com/view/hailin-shi&lt;/a&gt;.     If you use this dataset, please cite the paper &amp;ldquo;Yinglu Liu, Hao Shen, Yue Si, Xiaobo Wang, Xiangyu Zhu, Hailin Shi, et al. &amp;ldquo;Grand Challenge of 106-Point Facial Landmark Localization.&amp;rdquo; In 2019 IEEE International Conference on Multimedia and Expo (ICME) Workshop. IEEE, 2019.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;2019/4/18 - Thank you for participating in Grand Challenge of 106-p Facial Landmark Localization! The score of the final evaluation has been announced. Congratulations to the top three teams: Baidu VIS, USTC-NELSLIP and VIC iron man. You can check the leaderboard to view your ranking.&lt;/p&gt;
+&lt;h1 id=&#34;impoart-date&#34;&gt;Impoart Date&lt;/h1&gt;
+&lt;p&gt;From now on, we start the competition registration and release training data.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;date&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;event&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;2018/11/16&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Challenge registration start&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;2018/12/1 - 2019/4/1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Test 1(Phase validation)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;2019/4/8&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Test 2(Phase final evaluation): Model &amp;amp; paper submission deadline&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;prize&#34;&gt;Prize&lt;/h1&gt;
+&lt;p&gt;According to the final result, the first prize, second prize and third prize will be established.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;C:/d/hugo/sites/blog/pic/prize.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;organizer&#34;&gt;Organizer&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;C:/d/hugo/sites/blog/pic/shi.png&#34; alt=&#34;Dr. Hailin Shi&#34;&gt;  &lt;img src=&#34;C:/d/hugo/sites/blog/pic/liu.png&#34; alt=&#34;Dr. Yinglu Liu &#34;&gt;&lt;/p&gt;
+&lt;p&gt;       &lt;strong&gt;Dr. Hailin Shi&lt;/strong&gt;              &lt;strong&gt;Dr. Yinglu Liu&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;strong&gt;JD AI Platform and Research&lt;/strong&gt;              &lt;strong&gt;JD AI Platform and Research&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
